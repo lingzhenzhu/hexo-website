@@ -12,13 +12,10 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Lingzhen Zhu (he/his/him) <br> (https://www.name-coach.com/lingzhen-zhu)
+nickname: Lingzhen Zhu (he/his/him) 
 
 ### this variable is MarkDown form.
-description: 👋 Hi, it`s **Lingzhen**. Welcome to my space. <br>
-👀 🌱 I’m studying at **University of Virginia**, USA <br> 
-💞️ Here we will share everything about Data Science, Machine Learning, and Operations Research. 
-<br> 📫 How to reach me
+description: 👋 Hi, it`s **Lingzhen**. Welcome to my space. (https://www.name-coach.com/lingzhen-zhu) <br> 👀 🌱 I’m studying at **University of Virginia**, USA <br> 💞️ Here we will share everything about Data Science, Machine Learning, and Operations Research. <br> 📫 How to reach me
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -37,7 +34,7 @@ links:
   # RSS:
   # AliPay:
   # ZhiHu: 
-  # LinkedIn:
+  LinkedIn: https://linkedin.com/in/lingzhen-zhu
   # FaceBook:
   # Twitter:
   # Skype:
@@ -46,8 +43,8 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
