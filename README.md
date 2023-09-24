@@ -17,3 +17,15 @@ $ npm install
 ``` bash
 $ hexo server
 ```
+
+``` bash
+$ npm install hexo-deployer-git --save
+```
+
+``` bash
+$ hexo clean
+```
+
+``` bash
+$ hexo deploy
+```
