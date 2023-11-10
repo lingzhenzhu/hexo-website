@@ -1,6 +1,6 @@
 # hexo-website
 
-Here are some common comands
+Here are some common comands！
 
 ``` bash
 $ npm install hexo-cli -g
