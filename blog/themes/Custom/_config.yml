@@ -5,18 +5,35 @@ navname: Lingzhen's Website
 nav:
   Research: /research
   # Presentation: /category
-  Teaching: /tag
-  Blog: https://medium.com/@lzzhu718
+  Teaching: /teaching
+  Blog: /blog
   Podcast: https://podcasts.apple.com/us/podcast/uva-data-points/id1641538114
 
 # favicon
 favicon: /favicon.ico
 
 # Profile
-nickname: Lingzhen Zhu (he/his/him) 
+nickname: |
+    Lingzhen Zhu
+    (he/his/him)
 
 ### this variable is MarkDown form.
-description: Education <br> M.S. in Data Science, University of Virginia <br> B.Eng. in Industrial Engineering, Sichuan University - Pittsburgh Institute <br> 📫 How to reach me
+description: |
+    ## **Education**
+    M.S. in Data Science, University of Virginia
+    B.Eng. in Industrial Engineering, Sichuan University-Pittsburgh Institute
+    <br>
+    ## **Selected Publications**
+    n/a
+    <br>
+    ## **Presentations**
+    IEEE Systems and Information Engineering Design Symposium (SIEDS), 2024
+    <br>
+    ## **News**
+    I am glad to announce that I will join the Data Science Ph.D. program at UVA. I am excited to start this new journey in the fall of 2024.
+    <br>
+    ## 📫 How to reach me
+
 avatar: /image/avatar.jpg
 
 # main menu navigation

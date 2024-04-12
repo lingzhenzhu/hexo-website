@@ -1,1 +1,7 @@
 <%- partial('_page/post', {post: page, index: false}) %>
+<% if (page.embedIframe) { %>
+    <iframe src="<%= page.iframeUrl %>" width="100%" height="500px" frameborder="0">
+      Your browser does not support iframes.
+    </iframe>
+  <% } %>
+  
