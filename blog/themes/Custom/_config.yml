@@ -4,6 +4,8 @@ navname: Lingzhen's Blog
 # navigatior items
 nav:
   Research: /archives
+    Teaching: /tag
+    Blog: https://medium.com/@lzzhu718
   # Presentation: /category
   Teaching: /tag
   Blog: https://medium.com/@lzzhu718
