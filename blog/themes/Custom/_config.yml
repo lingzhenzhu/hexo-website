@@ -1,5 +1,5 @@
 # Header
-navname: Lingzhen's Blog
+navname: Lingzhen's Website
 
 # navigatior items
 nav:
@@ -16,7 +16,7 @@ favicon: /favicon.ico
 nickname: Lingzhen Zhu (he/his/him) 
 
 ### this variable is MarkDown form.
-description: **Education**<br> M.S. in Data Science, University of Virginia, USA <br> B.Eng. in Industrial Engineering, Sichuan University - Pittsburgh Institute <br> 📫 How to reach me
+description: Education <br> M.S. in Data Science, University of Virginia <br> B.Eng. in Industrial Engineering, Sichuan University - Pittsburgh Institute <br> 📫 How to reach me
 avatar: /image/avatar.jpg
 
 # main menu navigation
