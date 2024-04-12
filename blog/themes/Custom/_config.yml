@@ -23,12 +23,12 @@ avatar: /image/avatar.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  # Blog: /archives
   # Category:
   # Tags: 
   # Link:
   # Resume:
-  # Publish:
+  Publish: https://scholar.google.com
   # Trophy:
   # Gallery:
   # RSS:
