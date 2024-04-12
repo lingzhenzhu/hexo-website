@@ -3,10 +3,11 @@ navname: Lingzhen's Blog
 
 # navigatior items
 nav:
-  Posts: /archives
-  # Categories: /category
-  # Tags: /tag
-  About: /about
+  Research: /archives
+  # Presentation: /category
+  Teaching: /tag
+  Blog: https://medium.com/@lzzhu718
+  Podcast: https://podcasts.apple.com/us/podcast/uva-data-points/id1641538114
 
 # favicon
 favicon: /favicon.ico
