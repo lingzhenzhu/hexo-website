@@ -15,11 +15,12 @@ favicon: /favicon.ico
 # Profile
 nickname: |
     Lingzhen Zhu
-    (he/his/him)
+    朱苓榛
 
 ### this variable is MarkDown form.
 description: |
     ## **Education**
+    Ph.D. in Data Science, University of Virginia
     M.S. in Data Science, University of Virginia
     B.Eng. in Industrial Engineering, Sichuan University-Pittsburgh Institute
     <br>
@@ -67,7 +68,7 @@ links:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Lingzhen718
+  Github: https://github.com/lingzhenzhu
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
