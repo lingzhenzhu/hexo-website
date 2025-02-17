@@ -70,6 +70,12 @@ date: 2023-09-24 11:03:07
         const adminPasswordInput = document.getElementById("admin-password");
         const adminLoginBtn = document.getElementById("admin-login-btn");
 
+        // 读取并恢复存储的申请记录
+        let savedRequests = localStorage.getItem("requestList");
+        if (savedRequests) {
+            requestList.innerHTML = savedRequests;
+        }
+
         countElement.textContent = remainingCount;
 
         form.addEventListener("submit", function (event) {
@@ -86,6 +92,7 @@ date: 2023-09-24 11:03:07
                 return;
             }
 
+            // 添加请求记录
             const listItem = document.createElement("li");
             listItem.textContent = requestText;
             listItem.style.background = "#d9d9d9";
@@ -94,10 +101,15 @@ date: 2023-09-24 11:03:07
             listItem.style.borderRadius = "5px";
             requestList.appendChild(listItem);
 
+            // 存储申请记录到 localStorage
+            localStorage.setItem("requestList", requestList.innerHTML);
+
+            // 更新剩余次数并存储
             remainingCount--;
             localStorage.setItem("remainingCount", remainingCount);
             countElement.textContent = remainingCount;
 
+            // 禁用表单
             if (remainingCount === 0) {
                 form.innerHTML = "<p style='color:red;'>已达到最大使用次数，无法再申请。</p>";
             }
@@ -138,7 +150,8 @@ date: 2023-09-24 11:03:07
 
         document.getElementById("clear-records").addEventListener("click", function () {
             requestList.innerHTML = "";
-            localStorage.removeItem("requestList");
+            localStorage.removeItem("requestList"); // 清除 localStorage 里的申请记录
         });
     });
 </script>
+
