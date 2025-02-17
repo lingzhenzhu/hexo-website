@@ -29,31 +29,37 @@ date: 2023-09-24 11:03:07
     }
     .year {
         font-weight: bold;
-        color: #D32F2F;
+        color: #1B5E20;
     }
 </style>
 
 ## **University of Virginia**  
 
-<div style="text-align:center; display:inline-block; max-width: 200px;">
+<div style="text-align:center; display:inline-block; max-width: 50px;">
     <img src="/image/uva.jpg" alt="uva" 
          style="width:100%; display:block; border-radius:10px;">
 </div>
 
 ### <span class="year">2025 Spring</span>
 <div class="course">
+
 **DS 5111: Software and Automation Skills**  
 Graduate Teaching Assistant
+
 </div>
 
 ### <span class="year">2024 Fall</span>
 <div class="course">
+
 **DS 6030: Bayesian Machine Learning**  
 Graduate Teaching Assistant
+
 </div>
 
 ### <span class="year">2024 Spring</span>
 <div class="course">
+
 **DS 1002: Programming for Data Science**  
 Graduate Teaching Assistant
+
 </div>

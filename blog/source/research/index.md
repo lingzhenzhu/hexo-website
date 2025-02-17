@@ -13,10 +13,18 @@ date: 2023-09-24 11:03:07
         padding: 20px;
     }
     h2 {
-        color: #2C3E50;
-        border-bottom: 2px solid #2C3E50;
-        padding-bottom: 5px;
+        color: #1B5E20;
+        font-size: 26px;
+        font-weight: bold;
+        margin-top: 30px;
+        margin-bottom: 15px;
+        padding: 10px 20px;
+        display: inline-block;
+        border: 2px solid #1B5E20;
+        border-radius: 8px;
+        background-color: #f5f5f5;
     }
+
     h3 {
         color: #1B5E20;
         margin-top: 20px;
@@ -52,11 +60,11 @@ date: 2023-09-24 11:03:07
 
 ## Research Projects
 
-### **1. PINN for ECG Signal Denoising**
+### **PINN for ECG Signal Denoising**
 
-<div style="text-align:center; display:inline-block; max-width: 200px;">
+<div style="text-align:center; display:block; max-width: 700px; margin: auto;">
     <img src="/image/hsp.jpg" alt="PINN for ECG Signal Denoising" 
-         style="width:100%; display:block; border-radius:10px;">
+         style="width:100%; max-width: 100%; display:block; border-radius:10px;">
 </div>
 
 <div class="project">
@@ -82,7 +90,7 @@ Extensive experiments show that **EAND-ARN outperforms traditional methods** (e.
 Particularly in **complex cardiac regions**, these findings **demonstrate the clinical potential of EAND-ARN**, offering a **more reliable computational tool** for **cardiac electrophysiology research and arrhythmia diagnosis**.
 </div>
 
-### **2. fMRI-fNIRS**
+### **fMRI-fNIRS**
 
 <div class="project">
 Functional near-infrared spectroscopy (fNIRS) and functional magnetic resonance imaging (fMRI) are both neuroimaging techniques that measure changes in brain blood oxygenation
