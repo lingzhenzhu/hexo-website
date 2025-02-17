@@ -12,11 +12,7 @@ date: 2023-09-24 11:03:07
         margin: auto;
         padding: 20px;
     }
-    h2 {
-        color: #2C3E50;
-        border-bottom: 2px solid #2C3E50;
-        padding-bottom: 5px;
-    }
+  
     h3 {
         color: #1B5E20;
         margin-top: 20px;
@@ -33,7 +29,7 @@ date: 2023-09-24 11:03:07
     }
 </style>
 
-## **University of Virginia**  
+
 
 <div style="text-align:center; display:inline-block; max-width: 50px;">
     <img src="/image/uva.jpg" alt="uva" 

@@ -1,16 +1,15 @@
 # Header
-navname: Lingzhen's Website
+navname: 
 
 # navigatior items
 nav:
   Research: /research
   # Presentation: /category
   Teaching: /teaching
-  Blog: /blog
-  Podcast: https://podcasts.apple.com/us/podcast/uva-data-points/id1641538114
+  Media: /media
 
 # favicon
-favicon: /favicon.ico
+favicon: /z.ico
 
 # Profile
 nickname: |
