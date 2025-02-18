@@ -4,9 +4,9 @@ navname: Home
 # navigatior items
 nav:
   Research: /research
-  # Presentation: /category
   Teaching: /teaching
   Media: /media
+  Blog: /blog
 
 # favicon
 favicon: /z.ico
