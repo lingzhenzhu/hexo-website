@@ -3,6 +3,15 @@ title: 任意要求卡
 date: 2023-09-24 11:03:07
 ---
 
+<style>
+    body {
+        line-height: 1.6;
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+    }
+</style>
+
 <!-- 顶部图片 -->
 <div style="text-align:center; display:inline-block; max-width: 200px;">
     <img src="/image/card.jpg" alt="任意要求卡" 
